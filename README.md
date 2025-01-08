@@ -16,7 +16,6 @@
 
 <br/>
 
-
 <a href="https://github.com/javaidb">
     <img src="https://github-stats-alpha.vercel.app/api?username=javaidb&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
@@ -26,3 +25,17 @@
 * 📖 Bachelor's in Nanotechnology Engineering (Honours) @ [The University of Waterloo](https://uwaterloo.ca/future-students/programs/nanotechnology-engineering/). 
 
 * 💻 Conducting personal research and investigations on **AI**, **Battery Science** and **Sports Analytics**.
+
+
+
+<details>
+<summary>📈 Personal Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaidb&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javaidb&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javaidb&theme=dracula)
+
+</details>
