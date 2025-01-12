@@ -34,7 +34,7 @@
 <!--  Github repository stats -->
 
 <details>
-<summary>📈 Personal Stats</summary>
+<summary><h4>📈 Personal Stats</h4></summary>
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaidb&theme=dracula) 
@@ -45,7 +45,7 @@
 </details>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h4>📘 My Primary Projects</h4></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -58,7 +58,7 @@
     <a href="https://github.com/javaidb/arduino-projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=arduino-projects&theme=react&bg_color=1F222E&title_color=4ce7a5&hide_border=true&icon_color=F8D866&show_icons=false" alt="arduino-projects"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/javaidb?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 > [!NOTE]
