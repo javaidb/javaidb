@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/javaidb">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Battery+Engineer+&nbsp;+Researcher+&nbsp;+Data+Analyst;Battery+Modeling+&nbsp;AI+&nbsp;+Football+Analytics;Always+curious,+Always+learning.+&font=Fira%20Code&center=true&width=440&height=45&color=50e74c&vCenter=true&pause=1000&size=15" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Battery+Engineer+&nbsp;+Researcher+&nbsp;+Data+Analyst;Battery+Modeling+&nbsp;AI+&nbsp;Football+Analytics;Always+curious,+Always+learning.+&font=Fira%20Code&center=true&width=440&height=45&color=50e74c&vCenter=true&pause=1000&size=15" />
     </a>
 </p>
 
@@ -27,25 +27,23 @@
   </a>
 </p>
 
-* 📖 Bachelor's in Nanotechnology Engineering  @ [The University of Waterloo](https://uwaterloo.ca/future-students/programs/nanotechnology-engineering/). 
+* ✓ Bachelor's in Nanotechnology Engineering  @ [The University of Waterloo](https://uwaterloo.ca/future-students/programs/nanotechnology-engineering/). 
 
-* 💻 Conducting personal research and investigations on **AI**, **Battery Science** and **Sports Analytics**.
+* ⌕ Conducting personal research and investigations on **AI**, **Battery Science** and **Sports Analytics**.
 
 <!--  Github repository stats -->
 
 <details>
-<summary><h4>📈 Personal Stats</h4></summary>
-<br>
+  <summary><h4>☇ Personal Stats</h4></summary>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaidb&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javaidb&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javaidb&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaidb&theme=dracula) 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javaidb&theme=dracula) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javaidb&theme=dracula)
 
 </details>
-
 <details open> 
-  <summary><h4>📘 Primary Projects</h4></summary>
+  <summary><h4>▤ Primary Projects</h4></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
