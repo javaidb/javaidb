@@ -11,11 +11,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/javaidb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/b95e18d7-aa70-494f-991a-dd8be2c5f6a5"/></a>
+  <a href="https://www.linkedin.com/in/javaidb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/c53bea09-aaa9-4c06-97a9-7d363e0c0f97"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:javaidbaksh@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/aef9e873-cf5c-449d-a838-cebbf2e7a085"/></a>
+  <a href="mailto:javaidbaksh@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/b60f8ec6-fbdc-4a16-92b0-5fca54ae275d"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://pypi.org/user/javaid/" alt="PyPi" title="PyPi"><img width="32px" src="https://github.com/user-attachments/assets/a1230ce3-a0ec-4750-a73f-94cd0a40ada7"/></a>
+  <a href="https://pypi.org/user/javaid/" alt="PyPi" title="PyPi"><img width="32px" src="https://github.com/user-attachments/assets/89c72291-f065-4431-aada-93f3cf7070cf"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -45,7 +45,7 @@
 </details>
 
 <details open> 
-  <summary><h4>📘 My Primary Projects</h4></summary>
+  <summary><h4>📘 Primary Projects</h4></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
