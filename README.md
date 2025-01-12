@@ -63,3 +63,5 @@
 
 > [!NOTE]
 > This github focuses on three main subsets of repositories focused on battery research, either exploring BMS algorithms, electrochemical techniques or otherwise, sports analytics or other dashboards/automations. All repositories also explore optimization and predictive methods through machine learning/deep learning implementations.
+
+*Inspiration for READMEs primarily influenced by @drkostas and @denvercoder1, check theirs out as well!*
