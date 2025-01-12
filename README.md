@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/javaidb">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Researcher+&nbsp;+Battery+Engineer+&nbsp;+Data+Analyst;AI+&nbsp;+Battery+Science+and+Algorithms+&nbsp;+Footie+Fan&font=Fira%20Code&center=true&width=440&height=45&color=50e74c&vCenter=true&pause=1000&size=15" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Battery+Engineer+&nbsp;+Researcher+&nbsp;+Data+Analyst;Battery+Modeling+&nbsp;AI+&nbsp;+Football+Analytics;Always+curious,+Always+learning.+&font=Fira%20Code&center=true&width=440&height=45&color=50e74c&vCenter=true&pause=1000&size=15" />
     </a>
 </p>
 
@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:javaidbaksh@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/aef9e873-cf5c-449d-a838-cebbf2e7a085"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://pypi.org/user/javaid/" alt="PyPi" title="PyPi"><img width="32px" src="https://github.com/user-attachments/assets/78625233-d9f9-4967-a34f-43b46a41692c"/></a>
+  <a href="https://pypi.org/user/javaid/" alt="PyPi" title="PyPi"><img width="32px" src="https://github.com/user-attachments/assets/a1230ce3-a0ec-4750-a73f-94cd0a40ada7"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
