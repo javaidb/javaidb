@@ -49,12 +49,22 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+
   <p align="left">
+<!--     <a><img width="32px" alt="Battery Science" title="Battery Science" src="https://github.com/user-attachments/assets/e0a2b721-4036-4fdd-b520-b9c4393f202a"/></a> -->
     <a href="https://github.com/javaidb/battery-electrochemistry-queries"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=battery-electrochemistry-queries&theme=react&bg_color=1F222E&title_color=50e74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="battery-electrochemistry-queries"></a>
     <a href="https://github.com/javaidb/battery-soc-estimation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=battery-soc-estimation&theme=react&bg_color=1F222E&title_color=50e74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="battery-soc-estimation"></a>
     <a href="https://github.com/javaidb/battery-impedance-analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=battery-impedance-analysis&theme=react&bg_color=1F222E&title_color=50e74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="battery-impedance-analysis"></a>
+   </p>
+
+  <p align="left">
+<!--     <a><img width="32px" alt="Data Visualization" title="Data Visualization" src="https://github.com/user-attachments/assets/9446d382-4ff4-4ab1-a230-395c3df015ae"/></a> -->
     <a href="https://github.com/javaidb/personal-finance-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=personal-finance-tracker&theme=react&bg_color=1F222E&title_color=aee74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="personal-finance-tracker"></a>
     <a href="https://github.com/javaidb/premier-league-analytics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=premier-league-analytics&theme=react&bg_color=1F222E&title_color=aee74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="premier-league-analytics"></a>
+   </p>
+
+  <p align="left">
+<!--     <a><img width="32px" alt="Arduino" title="Arduino" src="https://github.com/user-attachments/assets/a4a4cd03-37f0-4302-b753-103807946771"/></a> -->
     <a href="https://github.com/javaidb/arduino-projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=arduino-projects&theme=react&bg_color=1F222E&title_color=4ce7a5&hide_border=true&icon_color=F8D866&show_icons=false" alt="arduino-projects"></a>
   </p>
 
