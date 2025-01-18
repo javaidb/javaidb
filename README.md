@@ -15,6 +15,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:javaidbaksh@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/b60f8ec6-fbdc-4a16-92b0-5fca54ae275d"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/javaidbaksh/"><img width="32px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/1534e8a3-5a48-4470-ae5c-bb19ec949544"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://pypi.org/user/javaid/" alt="PyPi" title="PyPi"><img width="32px" src="https://github.com/user-attachments/assets/89c72291-f065-4431-aada-93f3cf7070cf"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
