@@ -53,7 +53,7 @@
   <p align="left">
 <!--     <a><img width="32px" alt="Battery Science" title="Battery Science" src="https://github.com/user-attachments/assets/e0a2b721-4036-4fdd-b520-b9c4393f202a"/></a> -->
     <a href="https://github.com/javaidb/battery-electrochemistry-queries"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=battery-electrochemistry-queries&theme=react&bg_color=1F222E&title_color=50e74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="battery-electrochemistry-queries"></a>
-    <a href="https://github.com/javaidb/battery-soc-estimation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=battery-soc-estimation&theme=react&bg_color=1F222E&title_color=50e74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="battery-soc-estimation"></a>
+    <a href="https://github.com/javaidb/battery-soc-estimation-kf"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=battery-soc-estimation-kf&theme=react&bg_color=1F222E&title_color=50e74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="battery-soc-estimation"></a>
     <a href="https://github.com/javaidb/battery-impedance-analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=battery-impedance-analysis&theme=react&bg_color=1F222E&title_color=50e74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="battery-impedance-analysis"></a>
    </p>
 
