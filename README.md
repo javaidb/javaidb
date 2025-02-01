@@ -60,12 +60,13 @@
 
   <p align="left">
 <!--     <a><img width="32px" alt="Data Visualization" title="Data Visualization" src="https://github.com/user-attachments/assets/9446d382-4ff4-4ab1-a230-395c3df015ae"/></a> -->
-    <a href="https://github.com/javaidb/personal-finance-tracker"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=personal-finance-tracker&theme=react&bg_color=1F222E&title_color=aee74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="personal-finance-tracker"></a>
-    <a href="https://github.com/javaidb/premier-league-analytics"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=premier-league-analytics&theme=react&bg_color=1F222E&title_color=aee74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="premier-league-analytics"></a>
+    <a href="https://github.com/javaidb/premier-league-insights"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=premier-league-insights&theme=react&bg_color=1F222E&title_color=aee74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="premier-league-analytics"></a>
+    <a href="https://github.com/javaidb/premier-league-nn"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=premier-league-nn&theme=react&bg_color=1F222E&title_color=aee74c&hide_border=true&icon_color=F8D866&show_icons=false" alt="premier-league-analytics"></a>
    </p>
 
   <p align="left">
 <!--     <a><img width="32px" alt="Arduino" title="Arduino" src="https://github.com/user-attachments/assets/a4a4cd03-37f0-4302-b753-103807946771"/></a> -->
+    <a href="https://github.com/javaidb/personal-finance-tracker"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=personal-finance-tracker&theme=react&bg_color=1F222E&title_color=4ce7a5&hide_border=true&icon_color=F8D866&show_icons=false" alt="personal-finance-tracker"></a>
     <a href="https://github.com/javaidb/arduino-projects"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javaidb&repo=arduino-projects&theme=react&bg_color=1F222E&title_color=4ce7a5&hide_border=true&icon_color=F8D866&show_icons=false" alt="arduino-projects"></a>
   </p>
 
