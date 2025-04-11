@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/javaidb">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Battery+Engineer+&nbsp;+Researcher+&nbsp;+Data+Analyst;Battery+Modeling+&nbsp;AI+&nbsp;Football+Analytics;Always+curious,+Always+learning.+&font=Fira%20Code&center=true&width=440&height=45&color=50e74c&vCenter=true&pause=1000&size=15" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Battery+Engineer+-+Researcher+-+Data+Analyst;Battery+Modeling+-+AI+-+Football+Analytics;Always+curious,+Always+learning.+&font=Fira%20Code&center=true&width=440&height=45&color=50e74c&vCenter=true&pause=1000&size=15" />
     </a>
 </p>
 
